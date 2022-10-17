@@ -1,0 +1,12 @@
+Project Tittle : Black Box
+
+Introduction:
+Black box are most commonly used in vehicles like Cars, Aircrafts etc., It contains all the required information of the vehicle like speed, gear, distance travelled, etc.,
+Whenever any accident is occurred, Black box is searched first because, it will help to trackdown the reason for the accident.
+
+This project demostrates a simple black box using PIC18F4580, here we are storing events like speed, gear, collision etc., Black is protected with a 4 digtit password to
+avoid any misuse of information.
+
+Usage:
+Switch_2 : To change events up
+Switch_3 : To change events down
