@@ -13,3 +13,8 @@ Switch_4 : Click to change events down
 Switch_10 : Click to go to menu
 Switch_11 : Click to scroll up in menu, long press to open.
 Switch_12 : Click to scroll down in menu, long press to go back.
+
+How to run:
+After connecting the microcontroller commands are as follows
+i) make
+ii) make burn
