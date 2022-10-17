@@ -8,5 +8,8 @@ This project demostrates a simple black box using PIC18F4580, here we are storin
 avoid any misuse of information.
 
 Usage:
-Switch_2 : To change events up
-Switch_3 : To change events down
+Switch_3 : Click to change events up
+Switch_4 : Click to change events down
+Switch_10 : Click to go to menu
+Switch_11 : Click to scroll up in menu, long press to open.
+Switch_12 : Click to scroll down in menu, long press to go back.
